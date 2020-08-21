@@ -1,0 +1,265 @@
+{
+    "categorias": [
+
+      {
+        "titulo": "Plestras, Documentários e Lives",
+        "cor": "#E6B400",
+        "videos": [
+          {
+            "titulo": "Precisamos romper com os silêncios | Djamila Ribeiro | TEDxSaoPauloSalon",
+            "url": "https://www.youtube.com/watch?v=6JEdZQUmdbc"
+          },
+          {
+            "titulo": "A história e o legado de Lélia Gonzalez",
+            "url": "https://www.youtube.com/watch?v=fv5_xRpHV2s"
+          },  
+          {
+            "titulo": "ANGELA DAVIS | A liberdade é uma luta constante",
+            "url": "https://www.youtube.com/watch?v=7Lff8ScaF1Y"
+          },
+          {
+            "titulo": "Entenda o que é RACISMO ESTRUTURAL!",
+            "url": "https://www.youtube.com/watch?v=lryL8ZAMq-E"
+          },
+          {
+            "titulo": "Eu Empregada Doméstica | Preta Rara | TEDxSaoPaulo",
+            "url": "https://www.youtube.com/watch?v=_d_n-z3s8Lo"
+          },
+          {
+            "titulo": "RACISMO, COISA DE BRANCO",
+            "url": "https://www.youtube.com/watch?v=eBfw2WqNDj0"
+          },
+          {
+            "titulo": "O PESO DE SER DUAS VEZES MELHOR | PAPO DEPRETAS",
+            "url": "https://www.youtube.com/watch?v=ighOSn3p80I"
+          },
+          {
+            "titulo": "Djamila Ribeiro fala sobre lugar de fala | Tema da Semana | Saia Justa",
+            "url": "https://www.youtube.com/watch?v=AINEmjM4Ki4"
+          },
+          {
+            "titulo": "NOTA DE REPÚDIO",
+            "url": "https://www.youtube.com/watch?v=HiBUuOXqBYM"
+          },      
+          {
+            "titulo": "LÉLIA GONZALEZ: O RACISMO ESTRUTURAL | Jaqueline Conceição",
+            "url": "https://www.youtube.com/watch?v=X2ruqJntOWc"
+          },      
+          {
+            "titulo": "NEGRITUDES BRASILEIRAS - #CreatorsforChange",
+            "url": "https://www.youtube.com/watch?v=SMlRaztcAwQ"
+          },
+          {
+            "titulo": "ANÁLISE DE UM CORPO NO MUNDO (Luedji Luna) | Spartakus Santiago",
+            "url": "https://www.youtube.com/watch?v=CCQJPTts6aw"
+          },     
+          {
+            "titulo": "Um novo olhar sobre a pessoa negra; novas narrativas importam | Gabi Oliveira | TEDxUNIRIO",
+            "url": "https://www.youtube.com/watch?v=FYg-vQwm3Lo"
+          },
+          {
+            "titulo": "Ocupação AfroFuturista - DIA 1",
+            "url": "https://www.youtube.com/watch?v=mGL0swhHQeQ"
+          },
+          {
+            "titulo": "Roda Viva | Emicida",
+            "url": "https://www.youtube.com/watch?v=pDV3SGzV3m4"
+          }, 
+          {
+            "titulo": "AFROFUTURISMO",
+            "url": "https://www.youtube.com/watch?v=nU9Drxixlps"
+          },
+          {
+            "titulo": "O SIGNIFICADO DE BLACK IS KING (Beyoncé) PT. 1: Análise de todas as referências | Spartakus Santiago",
+            "url": "https://www.youtube.com/watch?v=ZpXMHVrS5_Q"
+          }, 
+          {
+            "titulo": "Draw & Brown: Racismo e música",
+            "url": "https://www.youtube.com/watch?v=q8x4O4NkBD4"
+          },            {
+            "titulo": "O movimento Afrofuturista",
+            "url": "https://www.youtube.com/watch?v=VsVjjGijcMI"
+          },
+          {
+            "titulo": "O que podemos aprender com Beyoncé? - Papo de Preta",
+            "url": "https://www.youtube.com/watch?v=EJQT32PCh1w"
+          },
+          {
+            "titulo": "Papo de quadrinhos com Emicida, Silvio Almeida, Ronilso Pacheco e PJ Kaiowá",
+            "url": "https://www.youtube.com/watch?v=2olnpgk6jz0"
+          },
+          {
+            "titulo": "Afrofuturismo: A Necessidade de Novas Utopias | Nátaly Neri | TEDxPetrópolis",
+            "url": "https://www.youtube.com/watch?v=_D1y9yZRpis&t=102s"
+          },
+          {
+            "titulo": "SER NEGRO NO BRASIL: A ESCRAVIDÃO COMO ELEMENTO CIVILIZATÓRIO | JAQUELINE CONCEIÇÃO",
+            "url": "https://www.youtube.com/watch?v=yYJSbG7rETY"
+          },
+          {
+            "titulo": "Angela Davis fala sobre o caso Marielle Franco - Canal Preto",
+            "url": "https://www.youtube.com/watch?v=2ve_DMX1nOU"
+          },  
+          {
+            "titulo": "AFROFUTURISMO",
+            "url": "https://www.youtube.com/watch?v=hYwaNPeSXsI"
+          },
+          {
+            "titulo": "Dr. Angela Davis at Black Queer Town Hall 2020",
+            "url": "https://www.youtube.com/watch?v=CMlUjgZj-sI"
+          },
+          {
+            "titulo": "O NOSSO PODER E O AFROFUTURISMO(Bluesman) | #TQSP",
+            "url": "https://www.youtube.com/watch?v=fizsBhn9EEA"
+          }        
+        ]
+      },
+  
+      {
+        "titulo": "Músicas",
+        "cor": "#E6B400",
+        "videos": [
+          {
+            "titulo": "BLACK PARADE",
+            "url": "https://www.youtube.com/watch?v=EJT1m1ele00"
+          },
+          {
+            "titulo": "Racionais Mc's - Negro drama",
+            "url": "https://www.youtube.com/watch?v=1DybpDjuxBY"
+          },
+          {
+            "titulo": "Bia Ferreira - Cota Não é Esmola | Sofar Curitiba",
+            "url": "https://www.youtube.com/watch?v=QcQIaoHajoM"
+          },   
+          {
+            "titulo": "Luedji Luna - Um Corpo no Mundo",
+            "url": "https://www.youtube.com/watch?v=V-G7LC6QzTA"
+          },  
+          {
+            "titulo": "BLUESMAN",
+            "url": "https://www.youtube.com/watch?v=-xFz8zZo-Dw"
+          },
+          {
+            "titulo": "Lizzo - Juice",
+            "url": "https://www.youtube.com/watch?v=XaCrQL_8eMY"
+          },
+          {
+            "titulo": "JAY-Z - Moonlight",
+            "url": "https://www.youtube.com/watch?v=FCSh48OlvMo"
+          },
+          {
+            "titulo": "IZA - Ginga feat. Rincon Sapiência",
+            "url": "https://www.youtube.com/watch?v=NcY80SPnvfE"
+          },
+          {
+            "titulo": "Yemi Alade, Angelique Kidjo - Shekere",
+            "url": "https://www.youtube.com/watch?v=JwoV1-ykm9E"
+          },
+          {
+            "titulo": "Kendrick Lamar - Alright",
+            "url": "https://www.youtube.com/watch?v=Z-48u_uWMHY"
+          },
+          {
+            "titulo": "WD- Eu Sou",
+            "url": "https://www.youtube.com/watch?v=QJ8Zp_HYsbI"
+          },
+          {
+            "titulo": "XENIA FRANÇA | PRA QUE ME CHAMAS?",
+            "url": "https://www.youtube.com/watch?v=ZEpV3C1JO60"
+          },
+          {
+            "titulo": "APES**T - THE CARTERS",
+            "url": "https://www.youtube.com/watch?v=kbMqWXnpXcA"
+          },
+          {
+            "titulo": "Childish Gambino - This is America",
+            "url": "https://www.youtube.com/watch?v=VYOjWnS4cMY"
+          },
+          {
+            "titulo": "Lil Nas X - Panini",
+            "url": "https://www.youtube.com/watch?v=bXcSLI58-h8"
+          },
+          {
+            "titulo": "Rincon Sapiência - Ponta de Lança",
+            "url": "https://www.youtube.com/watch?v=vau8mq3KcRw"
+          },
+          {
+            "titulo": "Djonga - CORRA pt. Paige",
+            "url": "https://www.youtube.com/watch?v=QcJ9oxMj6JI"
+          },
+          {
+            "titulo": "Chloe x Halle - Do It",
+            "url": "https://www.youtube.com/watch?v=a9HIaGcBocc"
+          },
+          {
+            "titulo": "BEYONCE - ALREADY",
+            "url": "https://www.youtube.com/watch?v=agCgvFTJeRs"
+          }
+        ]
+      },
+
+      {
+        "titulo": "Filmes e Séries",
+        "cor": "#E6B400",
+        "videos": [
+          {
+            "titulo": "BLACK IS KING",
+            "url": "https://www.youtube.com/watch?v=69MO7yU0d70"
+          },
+          {
+            "titulo": "Pantera Negra",
+            "url": "https://www.youtube.com/watch?v=wL4a4MafSjQ"
+          },
+          {
+            "titulo": "Hair Love",
+            "url": "https://www.youtube.com/watch?v=kNw8V_Fkw28"
+          },  
+          {
+            "titulo": "NJINGA - RAINHA DE ANGOLA",
+            "url": "https://www.youtube.com/watch?v=_YyGWcKKPeY"
+          },
+          {
+            "titulo": "Get Out",
+            "url": "https://www.youtube.com/watch?v=DzfpyUB60YY"
+          },
+          {
+            "titulo": "Seriously Single",
+            "url": "https://www.youtube.com/watch?v=V2SVIVkP2_U"
+          },
+          {
+            "titulo": "Shaft (1971)",
+            "url": "https://www.youtube.com/watch?v=T1ga1FgU10E"
+          },
+          {
+            "titulo": "Infiltrado na Klan",
+            "url": "https://www.youtube.com/watch?v=G2qLubVrMV0"
+          }, 
+          {
+            "titulo": "Dear White People",
+            "url": "https://www.youtube.com/watch?v=S6xjnsuIfA4"
+          },  
+          {
+            "titulo": "Little",
+            "url": "https://www.youtube.com/watch?v=Dk6jGQXx3o0"
+          },
+          {
+            "titulo": "Freedom: Nappily Ever After",
+            "url": "https://www.youtube.com/watch?v=3xh9XFxo2Hg"
+          },
+          {
+            "titulo": "O ódio que você semeia",
+            "url": "https://www.youtube.com/watch?v=WUTApfGLhUU"
+          }, 
+          {
+            "titulo": "Black Panther wins Best Costume Design",
+            "url": "https://www.youtube.com/watch?v=bw_n6O0d46k"
+          },
+          {
+            "titulo": "Sangue e Água",
+            "url": "https://www.youtube.com/watch?v=hnKCuZrtJeo"
+          }
+        ]
+      }
+      
+    ]
+  }  
